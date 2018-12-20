@@ -56,7 +56,7 @@ namespace MODERN_GUI_2
         int LX, LY,SW,SH;
         private void iconmaximizar_Click(object sender, EventArgs e)
         {
-            
+            var prueba = Screen.FromHandle(this.Handle).WorkingArea;
             this.MaximizedBounds = Screen.FromHandle(this.Handle).WorkingArea;
             this.WindowState = FormWindowState.Maximized;
             this.ControlBox = false;

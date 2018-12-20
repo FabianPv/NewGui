@@ -55,8 +55,8 @@ namespace MODERN_GUI_2
             dataGridView1.Rows.Insert(8, "9", "golosina", "kataboom", "0.2", "45");
             dataGridView1.Rows.Insert(9, "10", "golosina", "kataboom", "0.2", "45");
             dataGridView1.Rows.Insert(10, "11", "golosina", "kataboom", "0.2", "45");
-         
-          
+
+
         }
 
         private void btnCerrar_Click(object sender, EventArgs e)
@@ -67,6 +67,8 @@ namespace MODERN_GUI_2
         private void dataGridView1_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
             formventa frm = Owner as formventa;
+            var prueba = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+            frm.txtid.Text = prueba;
             frm.txtid.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
             frm.txtcategoria.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
             frm.txtdescrip.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
@@ -75,6 +77,6 @@ namespace MODERN_GUI_2
             this.Close();
         }
 
-       
-           }
+
+    }
 }

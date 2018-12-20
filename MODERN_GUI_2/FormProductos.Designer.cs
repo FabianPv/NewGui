@@ -153,6 +153,7 @@
             dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
             dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
             this.dataGridView1.RowHeadersDefaultCellStyle = dataGridViewCellStyle3;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dataGridView1.Size = new System.Drawing.Size(714, 378);
             this.dataGridView1.TabIndex = 8;
             this.dataGridView1.CellContentDoubleClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentDoubleClick);
@@ -161,31 +162,31 @@
             // 
             this.ID.HeaderText = "ID";
             this.ID.Name = "ID";
-            this.ID.Width = 44;
+            this.ID.Width = 42;
             // 
             // Column1
             // 
             this.Column1.HeaderText = "CATEGORIA";
             this.Column1.Name = "Column1";
-            this.Column1.Width = 111;
+            this.Column1.Width = 97;
             // 
             // Column2
             // 
             this.Column2.HeaderText = "DESCRIPCION";
             this.Column2.Name = "Column2";
-            this.Column2.Width = 123;
+            this.Column2.Width = 112;
             // 
             // Column3
             // 
             this.Column3.HeaderText = "PRECIO";
             this.Column3.Name = "Column3";
-            this.Column3.Width = 82;
+            this.Column3.Width = 75;
             // 
             // Column4
             // 
             this.Column4.HeaderText = "STOCK";
             this.Column4.Name = "Column4";
-            this.Column4.Width = 78;
+            this.Column4.Width = 70;
             // 
             // label1
             // 
@@ -194,7 +195,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(25, 33);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(157, 22);
+            this.label1.Size = new System.Drawing.Size(140, 20);
             this.label1.TabIndex = 7;
             this.label1.Text = "Lista de productos";
             // 

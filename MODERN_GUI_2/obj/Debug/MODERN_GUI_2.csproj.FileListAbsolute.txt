@@ -49,3 +49,17 @@ C:\Users\FabianMac\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Deb
 C:\Users\FabianMac\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.CoreCompileInputs.cache
 C:\Users\FabianMac\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
 C:\Users\FabianMac\Downloads\MODERN_GUI_2_AZUL\MODERN_GUI_2\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe.config
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.exe
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\bin\Debug\MODERN_GUI_2.pdb
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csprojResolveAssemblyReference.cache
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMantProducto.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormMenu.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormProductos.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.FormLogo.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.formventa.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.Properties.Resources.resources
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.GenerateResource.cache
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.csproj.CoreCompileInputs.cache
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.exe
+C:\Users\chyno\OneDrive\Documentos\Proyectos\NewGui\MODERN_GUI_2\obj\Debug\MODERN_GUI_2.pdb

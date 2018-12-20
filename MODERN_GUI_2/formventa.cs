@@ -34,5 +34,10 @@ namespace MODERN_GUI_2
         {
             this.Close();
         }
+
+        private void formventa_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
