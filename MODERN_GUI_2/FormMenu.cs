@@ -53,7 +53,7 @@ namespace MODERN_GUI_2
             this.panelContenedor.Tag = fh;
             fh.Show();
         }
-        int LX, LY,SW,SH;
+        
         private void iconmaximizar_Click(object sender, EventArgs e)
         {
             var prueba = Screen.FromHandle(this.Handle).WorkingArea;

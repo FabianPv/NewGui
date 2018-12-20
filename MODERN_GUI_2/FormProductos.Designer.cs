@@ -112,7 +112,7 @@
             this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(68)))), ((int)(((byte)(96)))));
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dataGridView1.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.None;
@@ -162,31 +162,26 @@
             // 
             this.ID.HeaderText = "ID";
             this.ID.Name = "ID";
-            this.ID.Width = 42;
             // 
             // Column1
             // 
             this.Column1.HeaderText = "CATEGORIA";
             this.Column1.Name = "Column1";
-            this.Column1.Width = 97;
             // 
             // Column2
             // 
             this.Column2.HeaderText = "DESCRIPCION";
             this.Column2.Name = "Column2";
-            this.Column2.Width = 112;
             // 
             // Column3
             // 
             this.Column3.HeaderText = "PRECIO";
             this.Column3.Name = "Column3";
-            this.Column3.Width = 75;
             // 
             // Column4
             // 
             this.Column4.HeaderText = "STOCK";
             this.Column4.Name = "Column4";
-            this.Column4.Width = 70;
             // 
             // label1
             // 
